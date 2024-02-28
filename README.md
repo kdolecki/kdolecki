@@ -12,6 +12,10 @@
 
 - **API Testing & Integration**: Intermediate proficiency in Postman for constructing REST and GraphQL services, based on development specifications. Experienced in integrating these services with GitHub Actions using Newman.
 
+- **Telemetry & Analytics Tools**: Proficient with Amplitude and Mixpanel for capturing, analyzing, and leveraging user interaction data to enhance software performance and user experience.
+
+- **Networking Tools**: Skilled in utilizing Charles Proxy and Proxyman for network traffic inspection, debugging, and performance analysis, ensuring secure and efficient network communication.
+
 - **Database Management**: Competent in SQL and NoSQL databases, including Oracle SQL Developer, MySQL Workbench, PostgreSQL, and MongoDB. Regularly employed for extracting and managing database information.
 
 - **Server Management**: Familiar with using PuTTY for log extraction from middleware.
