@@ -2,7 +2,7 @@
 
 
 ### 🌱 I’m a Software Tester with almost 6 years of experience in QA, specializing in various testing methodologies and tools. Currently, I'm focused on expanding my expertise in the field of IoT devices testing, aiming to contribute to the development of innovative and reliable smart device solutions. 🖥️
-## Skills
+## 🚀 Skills
 
 - **End-to-End Test Automation**: Proficient in building automation frameworks using Cypress and Playwright, employing JavaScript and the Page Object Model. Experienced in writing mobile tests with Appium and Detox.
 
